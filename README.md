@@ -5,7 +5,7 @@ How does seasonality affects price?
 What features have the most influence over the price
 
 ## Files
-The dataset is available for download on Kaggle under the name [Seattle Airbnb Open Data](https://www.kaggle.com/datasets/airbnb/seattle) and contains three files. The two that were used on this analysis were:
+The dataset used is on this repository but is also available for download on Kaggle under the name [Seattle Airbnb Open Data](https://www.kaggle.com/datasets/airbnb/seattle). Two files were used for this analysis:
 - Listings, including full descriptions and average review score
 - Calendar, including listing id and the price and availability for that day
 
